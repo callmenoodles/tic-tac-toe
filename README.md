@@ -1,5 +1,9 @@
 # Tic Tac Toe
 Tic Tac Toe made with C++ and SDL2.
+
+## Disclaimer
+This is an old project that was later pushed to GitHub.
+
 ## Getting Started
 Importing SDL2 in Visual Studio:
 1. Go to Project > Properties > C/C++ > General
@@ -12,7 +16,9 @@ Importing SDL2 in Visual Studio:
 8. Edit `Additional Dependencies`
 9. Add `SDL2.lib`, `SDL2main.lib`, `SDL_image.lib` and `libfreetype-6.lib`
 10. Hit OK and you're set up.
+
 ## Controls
 Press `Q` to restart.
+
 ## License
 [MIT](LICENSE)
